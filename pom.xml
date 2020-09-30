@@ -1003,3 +1003,5 @@
   </modules>
 
 </project>
+
+#    <module>org.eclipse.jgit.benchmarks</module>
